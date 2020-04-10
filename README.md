@@ -1,4 +1,4 @@
-# apline_linux_bbht
+# alpine_linux_bbht
 Bug Bounty Hunting Tools set up in Alpine Linux!
 
 I was working with an Ubuntu docker but then decided to switch to Alpine because its light weight and minimal. And, just wanted to share this with you guys!
